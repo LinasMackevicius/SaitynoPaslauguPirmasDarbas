@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<order>
+    <books>
+        <author>J.K.Rowling</author>
+        <bookName>Harry Potter</bookName>
+        <id>5</id>
+        <price>55</price>
+        <publisher>Someone</publisher>
+        <year>1989</year>
+    </books>
+    <customers>
+        <firstName>John</firstName>
+        <id>6</id>
+        <lastName>Smith</lastName>
+    </customers>
+    <date>2023-04-05</date>
+    <id>4</id>
+</order>
